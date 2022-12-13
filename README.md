@@ -1,3 +1,4 @@
+![Cinderlib Integration Test](https://github.com/databunnysg/iXsystemscinder/actions/workflows/CinderlibIntegration.yml/badge.svg)
 TrueNAS Cinder Driver
 =====================
 
